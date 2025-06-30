@@ -3,6 +3,9 @@ Empowering Smarter Healthcare Decisions for Everyone
 
 Built with the tools and technologies:
 🐍 Python
+💻 HTML, CSS, JavaScript
+
+🤖 Machine Learning
 
 📑 Table of Contents
 Overview
